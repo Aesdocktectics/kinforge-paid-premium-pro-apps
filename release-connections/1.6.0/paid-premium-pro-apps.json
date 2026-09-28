@@ -1,0 +1,28 @@
+{
+  "version": "1.6.0",
+  "slug": "paid-premium-pro-apps",
+  "title": "Paid Premium and Pro Apps",
+  "audience": "Premium and Pro subscribers",
+  "site": "Public paid plan pages and professional plan routing",
+  "app": "Premium and Pro Mac, Windows and installable web app channel",
+  "access": "KinForge account plus Stripe subscription entitlement",
+  "releaseSource": {
+    "ownerPullRequest": "https://github.com/Aesdocktectics/kinforge-genealogy-studio/pull/19",
+    "ownerBranch": "codex/kinforge-owner-1.6.0",
+    "manifest": "server/releaseManifest.ts",
+    "updateFolder": "Downloads/KinForge Genealogy Studio Supreme Suite/Updates/1.6.0"
+  },
+  "packages": [
+    "KinForge Genealogy Studio Supreme Suite-1.6.0-Apple-Silicon.dmg",
+    "KinForge Genealogy Studio Supreme Suite-1.6.0-Apple-Silicon.pkg",
+    "KinForge Genealogy Studio Supreme Suite-1.6.0-Intel.dmg",
+    "KinForge Genealogy Studio Supreme Suite-1.6.0-Intel.pkg",
+    "KinForge Genealogy Studio Supreme Suite-1.6.0-x64-setup.exe",
+    "KinForge Genealogy Studio Supreme Suite-1.6.0-x64-portable.exe"
+  ],
+  "requirements": [
+    "Connect 1.6.0 packages to Premium and Pro subscribers",
+    "Keep advanced reports, exports and AI-facing product copy aligned with 1.6.0",
+    "Do not expose owner revenue, account moderation or site controls"
+  ]
+}
